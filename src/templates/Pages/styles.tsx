@@ -22,5 +22,6 @@ export const Body = styled.div`
   p {
     font-size: var(--medium);
     line-height: var(--medium);
+    margin-bottom: var(--medium);
   }
 `
