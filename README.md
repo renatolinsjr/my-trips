@@ -17,6 +17,8 @@
 
 ## DEMO
 
+[Você pode acessar o site clicando aqui](https://my-trips.renatolins.dev.br/)
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/37521696/111161575-10d79400-857a-11eb-85df-e352fb6afe0f.gif" />
 </p>
